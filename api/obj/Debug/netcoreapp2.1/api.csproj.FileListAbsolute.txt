@@ -1,0 +1,14 @@
+C:\Repos\idvillota\API_net_core\api\bin\Debug\netcoreapp2.1\api.deps.json
+C:\Repos\idvillota\API_net_core\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.json
+C:\Repos\idvillota\API_net_core\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.dev.json
+C:\Repos\idvillota\API_net_core\api\bin\Debug\netcoreapp2.1\api.dll
+C:\Repos\idvillota\API_net_core\api\bin\Debug\netcoreapp2.1\api.pdb
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cache
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cs
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.AssemblyInfoInputs.cache
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.AssemblyInfo.cs
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.dll
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.pdb
+C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
