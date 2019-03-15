@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Newtonsoft.Json.Serialization;
 
 namespace api
 {
@@ -26,6 +27,16 @@ namespace api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            //Change to show the result in upper case as the propertie in the model.
+            //.AddJsonOptions(o =>
+            //{   
+            //    if(o.SerializerSettings.ContractResolver != null)
+            //    {
+            //        var castedResolver = o.SerializerSettings.ContractResolver
+            //            as DefaultContractResolver;
+            //        castedResolver.NamingStrategy = null;
+            //    }
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,6 +53,8 @@ namespace api
                 app.UseHsts();
             }
 
+
+            app.UseStatusCodePages();
             app.UseMvc();
             //app.Run((context) =>
             //{
