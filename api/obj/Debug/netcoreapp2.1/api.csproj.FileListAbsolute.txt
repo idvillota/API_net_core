@@ -11,4 +11,3 @@ C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.AssemblyInfo.cs
 C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
 C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.dll
 C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.pdb
-C:\Repos\idvillota\API_net_core\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
